@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="2" width="50%" align="center" >
+        <tr >
+            <th>
+                Header column 1
+            </th>
+            <th>
+                Header column 2
+            </th>
+            <th>
+                Header column 3
+            </th>
+            <th>
+                Header column 4 
+            </th>
+        </tr>
+        <tr>
+            <td>
+                Row2-Item 1
+            </td>
+            <td>
+                Row2-Item 2 
+            </td>
+            <td rowspan="2">
+                Row2-Nested Table 1
+                <table border="2" width="100%">
+                    <tr>
+                        <td>
+                            Row 1 Header
+                        </td>
+                        <td>
+                            item
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Row 2 Header
+                        </td>
+                        <td>
+                            item
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Row 2 Header
+                        </td>
+                        <td>
+                            item
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                Row2-Item 4<br>
+                A second line 
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Row2-Nested Table 1
+                <table border="2" width="100%">
+                    <tr>
+                        <td>
+                            Row 1 Header
+                        </td>
+                        <td>
+                            item
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Row 2 Header
+                        </td>
+                        <td>
+                            item
+                        </td>
+                    </tr>
+                    
+                </table>
+            </td>
+            <td>
+                Row3-Item2
+            </td>
+            <td rowspan="2">
+                Row3-Item3
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Row4-Item1
+            </td>
+            <td>
+                Row4-Item2 
+            </td>
+            <td>
+                Row4-Item3
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                Row-5-Last row of outer table
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
