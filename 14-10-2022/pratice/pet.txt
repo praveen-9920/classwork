@@ -1,0 +1,106 @@
+<body bgcolor="darkred">
+
+body:element
+bgcolor="darkred"                      ATTRIBUTE
+
+bgcolor : Proper attributes
+
+ty
+darkred:value
+
+1. Direction:           up.down,left,right
+bgcolor:Background color
+height:
+scrollamount:To Control Speed
+behaviour?
+
+<font></font>:attributes
+<br?>
+<hr/>?
+
+
+			HR ATTRIBUTES
+Attribute	Value			Description
+align		left, right, center	It is used to specify the alignment of the horizontal rule.
+noshade		noshade			It removes the default shading effect
+Size		pixels			It is used to specify the height of the horizontal rule.
+width		pixels			It specifies the width of the horizontal rule.
+
+
+			FONT ATTRIBUTES
+Attribute Name 	Detail Description
+Size 		This attribute is used to define a specific size for text in between 1 to 7.
+Face or type 	This attribute is used to define the font type for the included text.
+Color 		This attribute is used to show enclosed text in a different color.
+Weight 		This attribute defines the boldness of the text of the font tag.
+			
+			MARQUEE ATTRIBUTES
+ATTRIBUTES	VALUES				DESCRIPTION
+bgcolor		Color Name			Define the background color of the marquee.
+direction	Top, Down, Left, Right		Define the direction of scrolling the content.
+loop		Number				Specifies how many times content moves. The default value is infinite.
+height		px or %				Define the height of marquee.
+width		px or %				Define the width of marquee.
+hspace		px				Specify horizontal space around marquee.
+vspace		px				Specify vertical space around marquee.
+behaviour	scroll, slide and alternate	It facilitates user to set the behavior of the marquee to one of the three different types.
+
+
+							LIST
+1.ORDERED LIST 					2.UNORDERED LIST					3.DEFINITION
+
+
+. ORDERED LIST 
+<OL>
+	<LI></LI>
+	<LI></LI>
+</OL>
+
+
+
+PROPERTY VALUE			EXAMPLE
+DECIMAL				1,2,3
+LOWER-ALPHA 			a,b,c
+UPPER-ALPHA			A,B,C
+LOWER ROMAN
+UPPER ROMAN
+
+
+
+<form>
+	<input type="text" />
+</form>			
+
+syntax
+<input type="type" placeholder="message here" value=""
+
+
+Radio button
+Male    <input type="radio" name="r1" />
+Female  <input type="radio" name="r1" />
+
+Checkbox
+HTML    <input type="checkbox" name="r1" />
+CSS  	<input type="checkbox" name="r1" />
+
+
+FILE
+<input type="file" />
+
+
+<label for="html"> </label>
+
+<textarea rows="4" cols="10"> </textarea>
+
+
+			TYPE
+1.text		2.email		3.search		4.url		5.tel		6.number		7.radio		8. checkbox
+9.date 		10.week		11.range		12.week		13.time		14.datetime 		15.color	16.
+
+
+
+ATTRIBUTES OF INPUT TYPE
+1.placeholder		2.required		3.autofocus
+
+
+
