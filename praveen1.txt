@@ -1,0 +1,13 @@
+HTML5 is a HyperText Markup Language.
+That can be used for structuring and presenting content on the World Wide Web.
+HTML5 is easy to implement and it works with CSS3. Today all browsers support 
+HTML5 tags and even IE6 understands the markup <!doctype html> and will render the pages correctly.
+HTML5 has come along with clean markup and clean code that make it more accessible than the previous version.
+
+
+
+Checkboxes and radio buttons are elements for making selections. 
+Checkboxes allow the user to choose multiple items from a list,
+while radio buttons allow the user to choose exactly one item from a list.
+
+
