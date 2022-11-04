@@ -1,0 +1,37 @@
+table{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+span{
+    margin-left: -1px;
+    font-size: 100px;
+}
+#a{
+    color: rgb(6, 71, 249);
+}
+#b{
+    color:red;
+}
+#c{
+    color: yellow;
+}
+#d{
+    color: rgb(6, 71, 249);
+}
+#e{
+    color: green;
+}
+#f{
+    color: red;
+}
+form{
+    margin-left: 450px;
+    margin-top: 50px;
+
+}
+input[type="text"]
+{
+    width: 600px;
+    height: 40px;
+    border-radius: 30px;
+}
